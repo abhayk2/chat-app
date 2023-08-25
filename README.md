@@ -36,6 +36,9 @@ git clone https://github.com/abhayk2/chat-app.git
 2. Compile the Java files using the necessary build commands.
 3. Follow the usage instructions mentioned above to start the server and client instances.
 
+# Preview
+https://www.linkedin.com/posts/abhayk176_javachatapplication-javaswing-networkingmagic-activity-7100560547103866881-ASCM?utm_source=share&utm_medium=member_desktop
+
 # Contributing
 Contributions are welcome! If you find any bugs or have ideas for enhancing the application, feel free to open an issue or submit a pull request.
 
